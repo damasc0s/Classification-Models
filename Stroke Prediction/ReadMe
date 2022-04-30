@@ -1,0 +1,10 @@
+# Stroke Prediction
+* Problem Description - Predict whether a person will suffer from stroke in the future based on features such as his age, bmi, married status, history of hypertension, etc.
+* Also, our data is an imbalanced(in the favor of no stroke) problem which needs to be handled accordingly
+
+* Model Summary:
+Final Model - Logistic Regression
+Statistics - CV Accuracy : 73.81
+             Recall : Class 0 - 0.74
+                      Class 1 - 0.81
+                   
